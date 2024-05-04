@@ -1,0 +1,25 @@
+.sec {
+  position: absolute;
+  top: 160px;
+  left: 660px;
+  box-sizing: initial;
+  height: 270px;
+  width: 420px;
+  background-color: bisque;
+}
+
+.sec2 {
+  color: rgb(125, 65, 12);
+}
+
+.sec3 {
+  background-color: rgb(125, 65, 12);
+  width: 150px;
+  height: 50px;
+}
+
+.sec4 {
+  background-color: rgb(125, 65, 12);
+  width: 150px;
+  height: 50px;
+}
